@@ -1,0 +1,11 @@
+select{
+	display: inline-block;
+}
+
+#submit{
+	margin-top: 20px;
+}
+
+canvas{
+	border: 1px dotted black;
+}
